@@ -34,7 +34,13 @@
         
         
           
-3. web hosting 에서 
+3. 웹서버에 연결
+
+       생성한 파일을 통해서 웹사이트를 운용할 수 있도록 웹서버를 제공하는 github를 이용합니다.
+       https://github.com/ 에서 제작한 html파일들을 upload하여 등록하고 settings에서 
+       GitHup Pages에서 branch로 바꾸어서 저장하면 제작한 웹사이트에대한 주소를 부여한다.
+       
+       
 
 
 
