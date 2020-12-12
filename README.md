@@ -8,12 +8,7 @@
 
 
 
-2. tag        
-       1. html: head 와 body는 고위 tag이지만 이둘을 감싸는 최고위직 tag이다.   
-      [!DOCTYPE html] : html 가장상단에 관용적으로 작성, 문서는html이 있다는 뜻?
-        2.
-
-
-
-   
-
+2. tag
+1. html: head 와 body는 고위 tag이지만 이둘을 담는는 최고위직 tag이다.  [!DOCTYPE html] : html 가장상단에 관용적으로 작성
+2. head : 본문내용을 설명하는 title 과 meta를 담고있음
+3. title : 
