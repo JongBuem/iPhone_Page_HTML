@@ -28,7 +28,7 @@
            <a href="링크주소" target="_blank"> 링크를 걸 문자 </a> : 새탭으로 열기
            <a href="링크주소" title="문자"> 링크를 걸 문자 </a> : 커서를 대면 툴팁이 발생
            <a href="링크주소" target="_blank"> <img src="이미지이름.jpg" width="사이즈"> </a> : 사진클릭시 링크로 이동
-       16. ??          
+               
                 
           
 3. 웹호스팅에 연결
@@ -49,5 +49,69 @@
 
        Apache를 설치 이후 C드라이브 - Bitnami - apache2 - htdocs 안에 존재하는 파일들을 삭제하고
        htdocs 디렉터리에 html파일들을 넣어주다. 그리고 주소창에 http://IP주소/파일명 입력하면
-       작성한 html파일을 확인 할 수있다. 
+       작성한 html파일을 확인 할 수있다.
+
+
+6. 동영상추가 
+
+       스크립트를 직접장성하지 않고 YouTube에서 동영상의 공유버튼에서 코드를 복사하여 붙여넣었습니다.
+
+
+7. 댓글서비스
+
+       DISQUS 사이트에서 이름과 카테고리 생성 [홈 - 설정 - add DISQUS to site - get STARTED - install DISQUS on ] 
+       생성한 카테고리에서 상단메뉴중 settings 클릭후 왼쪽메뉴에서 Install ation 클릭하게되면 하단에 코드를 복사 붙여넣었습니다.
        
+
+
+8. 채팅 서비스
+
+       tawk 사이트에 로그인후 설정 중에서 chat widget의 코드를 복사하여 붙여넣었습니다.
+       
+       
+9. 방문자 수
+
+        gogle analytics에 로그인 후 데이터스트림에서 웹추가 후 코드를 복사하여 head tag 사이에 붙여넣었습니다. 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
