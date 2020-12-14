@@ -6,8 +6,7 @@
        atom Editor 상단 메뉴중에서 file중 open folder를 선택하여 생성한 폴더를 선택합니다.
        atom Editor 창이 두개로 나누어 지면 좌측 생성폴더를 우클릭하여 파일을 생성합니다.
        웹페이지에서 [Ctrl + o]로 생성한 파일을 간단하게 열어볼 수 있다.
-
-
+       
 
 2. tag       
 
@@ -30,17 +29,25 @@
            <a href="링크주소" title="문자"> 링크를 걸 문자 </a> : 커서를 대면 툴팁이 발생
            <a href="링크주소" target="_blank"> <img src="이미지이름.jpg" width="사이즈"> </a> : 사진클릭시 링크로 이동
        16. ??          
-        
-        
-        
+                
           
-3. 웹서버에 연결
+3. 웹호스팅에 연결
 
        생성한 파일을 통해서 웹사이트를 운용할 수 있도록 웹서버를 제공하는 github를 이용합니다.
        https://github.com/ 에서 제작한 html파일들을 upload하여 등록이후 설정에서
        GitHup Pages의 항목을 branch로 바꾸어서 저장하면 제작한 웹사이트에대한 주소를 부여 받는다.
        
        
+4. 웹서버 원리
 
+       Web Browser와 Web Server가 동일한 컴퓨터에 존재한다면
+       Web Server아래에 존재하는 html파일을 Web Browser가 요청하게되면 Web Server가 htdocs디렉터리에서 
+       요청한 파일을 읽어서 그파일을 Web Browser에 전송하면 Web Browser는 해석해서 화면에 출력해준다.
+       
+       
+5. 웹서버 연결 (Window OS)
 
-
+       Apache를 설치 이후 C드라이브 - Bitnami - apache2 - htdocs 안에 존재하는 모든파일을 삭제한다.
+       htdocs 폴더에 작성한 html파일들을 복사한다. 그리고 브라우저에 http://IP주소/파일명 하게되면
+       작성한 html파일을 확인 할 수있다. 
+       
