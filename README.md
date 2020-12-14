@@ -47,7 +47,7 @@
        
 5. 웹서버 연결 (Window OS)
 
-       Apache를 설치 이후 C드라이브 - Bitnami - apache2 - htdocs 안에 존재하는 모든파일을 삭제한다.
-       htdocs 폴더에 작성한 html파일들을 복사한다. 그리고 브라우저에 http://IP주소/파일명 하게되면
+       Apache를 설치 이후 C드라이브 - Bitnami - apache2 - htdocs 안에 존재하는 파일들을 삭제하고
+       htdocs 디렉터리에 html파일들을 넣어주다. 그리고 주소창에 http://IP주소/파일명 입력하면
        작성한 html파일을 확인 할 수있다. 
        
