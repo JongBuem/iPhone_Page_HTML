@@ -28,6 +28,8 @@
            <a href="링크주소" target="_blank"> 링크를 걸 문자 </a> : 새탭으로 열기
            <a href="링크주소" title="문자"> 링크를 걸 문자 </a> : 커서를 대면 툴팁이 발생
            <a href="링크주소" target="_blank"> <img src="이미지이름.jpg" width="사이즈"> </a> : 사진클릭시 링크로 이동
+       16. div : 디자인의 용도로 쓰이며 block 단위이다. CSS에서 grid 구현에사용   <div><div>  </div></div>
+       17. span : 디자인의 용도로 쓰이며 inline 단위이다.                        <span>      <span>     
                
                 
           
