@@ -1,4 +1,4 @@
-# iPhone_wab
+# iPhone_Page_HTML
 
 1. HTML Editor 설치 및 파일생성      
 
